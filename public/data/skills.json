@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "JavaScript", "level": "Avancé" },
+  { "id": 2, "name": "TypeScript", "level": "Intermédiaire" },
+  { "id": 3, "name": "React", "level": "Avancé" },
+  { "id": 4, "name": "Next.js", "level": "Intermédiaire" },
+  { "id": 5, "name": "Node.js", "level": "Avancé" },
+  { "id": 6, "name": "Python", "level": "Débutant" }
+]
